@@ -1,24 +1,24 @@
-# AI Factory Unity Landing Page
+# AI Factory Unity Website
 
-This repository contains the public landing page for **AI Factory Unity (AIFU)**.
+This repository contains the public website for **AI Factory Unity (AIFU)**.
 
 ## Website
 
-The current public landing page is available here:
+AI Factory Unity’s public website is available here:
 
-https://aifactoryunity.github.io/landing-page/
+https://aifactoryunity.github.io
 
-## Project
+## About AI Factory Unity
 
 AI Factory Unity is an early-stage AI startup building AI-assisted software for industrial manufacturing environments.
 
-This landing page is used for early public communication, startup presentation, and basic online presence.
+The website is used for early public communication, startup presentation, and basic online presence.
 
 ## Repository Contents
 
-- `index.html` — main landing page
-- `logo_ai_factory_unity.png` — project logo
-- `README.md` — repository information
+* `index.html` — main website page
+* `logo_ai_factory_unity.png` — project logo
+* `README.md` — repository information
 
 ## Deployment
 
